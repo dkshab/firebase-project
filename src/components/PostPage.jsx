@@ -52,7 +52,6 @@ class PostPage extends Component {
 
   render() {
     const { post, comments } = this.state;
-    console.log(this.props);
 
     return (
       <section>
